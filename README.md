@@ -1,2 +1,2 @@
 # jogopong
-Desenvolvi o jogo Pong em JavaScript
+Desenvolvi o jogo Pong em JavaScript.
