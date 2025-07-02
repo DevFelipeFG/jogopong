@@ -30,7 +30,7 @@ Abra o arquivo index.html no seu navegador.
 Controle sua raquete com as setas e impeça que a bola ultrapasse seu lado da tela. O jogo simula uma partida clássica de Pong, com colisões e movimentação automática do oponente.
 
 ✅ Funcionalidades
-Movimento da raquete controlado pelas setas 
+Movimento da raquete controlado pelas setas do teclado (↑ ↓)
 
 Colisão entre bola e raquetes
 
